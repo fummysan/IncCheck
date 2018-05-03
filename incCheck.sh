@@ -82,13 +82,3 @@ echo -e "\n"
 echo "#lsusb -t"
 lsusb -t
 
-
-
-
-
-
-
-
-
-
-
